@@ -71,4 +71,4 @@ The analysis identified **age, comorbidities, heart rate, ICU admission type, an
 By expanding the dataset and refining predictive models, healthcare professionals can gain a **more comprehensive understanding** of in-hospital mortality factors, ultimately leading to **better patient care and intervention strategies**.
 
 ![hospital_mortality](hospital_mortality_dashbord.png)
-![hospital_mortality](hospital_mortality_dashbord(2).png)
+![hospital_mortality](hospital_mortality_dashbord_2.png)
